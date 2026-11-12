@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" fill="none">
+  <defs>
+    <linearGradient id="tmrGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f766e" />
+      <stop offset="50%" stop-color="#0d9488" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#0f172a" flood-opacity="0.15" />
+    </filter>
+  </defs>
+
+  <!-- Background Circle / Shield -->
+  <circle cx="60" cy="60" r="54" fill="url(#tmrGrad)" filter="url(#shadow)" stroke="#ffffff" stroke-width="3" />
+  <circle cx="60" cy="60" r="48" stroke="#ccfbf1" stroke-width="1.5" stroke-dasharray="3 3" opacity="0.6" />
+
+  <!-- Outer Ring Accent -->
+  <path d="M 60,14 A 46,46 0 0,1 106,60" stroke="url(#goldGrad)" stroke-width="2.5" stroke-linecap="round" />
+
+  <!-- Flora & Tree of Life Icon -->
+  <g transform="translate(30, 26)">
+    <!-- Tree Trunk -->
+    <path d="M 30,52 L 30,34 C 30,32 32,30 35,28 C 32,29 28,29 25,28 C 28,30 30,32 30,34 Z" fill="#ffffff" opacity="0.95" />
+    <!-- Leaves Left -->
+    <path d="M 30,32 C 22,30 14,24 16,14 C 24,14 28,22 30,32 Z" fill="#99f6e4" />
+    <!-- Leaves Center Top -->
+    <path d="M 30,28 C 24,18 26,6 30,2 C 34,6 36,18 30,28 Z" fill="#ffffff" />
+    <!-- Leaves Right -->
+    <path d="M 30,32 C 38,30 46,24 44,14 C 36,14 32,22 30,32 Z" fill="#5eead4" />
+    <!-- Wildlife Paw / Fauna Silhouette -->
+    <circle cx="21" cy="40" r="3" fill="#ffffff" opacity="0.9" />
+    <circle cx="27" cy="37" r="3.2" fill="#ffffff" opacity="0.9" />
+    <circle cx="33" cy="37" r="3.2" fill="#ffffff" opacity="0.9" />
+    <circle cx="39" cy="40" r="3" fill="#ffffff" opacity="0.9" />
+    <path d="M 23,49 C 23,43 37,43 37,49 C 37,52 23,52 23,49 Z" fill="#ffffff" opacity="0.9" />
+  </g>
+
+  <!-- Stars of Excellence -->
+  <polygon points="60,94 62,99 67,99 63,102 65,107 60,104 55,107 57,102 53,99 58,99" fill="url(#goldGrad)" />
+  <polygon points="44,93 45.5,97 49,97 46,99 47.5,103 44,101 40.5,103 42,99 39,97 42.5,97" fill="#ffffff" opacity="0.8" />
+  <polygon points="76,93 77.5,97 81,97 78,99 79.5,103 76,101 72.5,103 74,99 71,97 74.5,97" fill="#ffffff" opacity="0.8" />
+</svg>

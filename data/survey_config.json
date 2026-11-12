@@ -1,0 +1,138 @@
+[
+  {
+    "id": "sec_1",
+    "code": "23.28.01.1.08.02",
+    "title": "Penyediaan Jasa Komunikasi, Sumber Daya Air dan Listrik",
+    "shortTitle": "Komunikasi, Air & Listrik (TALI)",
+    "icon": "zap",
+    "questions": [
+      {
+        "id": "q1",
+        "num": 1,
+        "text": "Kecukupan kebutuhan penerangan ditiap bulan lingkup TMR"
+      },
+      {
+        "id": "q2",
+        "num": 2,
+        "text": "Kecepatan dan ketepatan dalam proses pembayaran tagihan TALI setiap bulan"
+      },
+      {
+        "id": "q3",
+        "num": 3,
+        "text": "Kemudahan dalam mendapatkan Akses TALI"
+      },
+      {
+        "id": "q4",
+        "num": 4,
+        "text": "Kesigapan petugas dalam melayani pengaduan"
+      },
+      {
+        "id": "q5",
+        "num": 5,
+        "text": "Kualitas Penyediaan Jasa Komunikasi, Sumber Daya Air dan Listrik sudah sesuai dengan yang di harapkan"
+      }
+    ]
+  },
+  {
+    "id": "sec_2",
+    "code": "3.28.01.1.06.07",
+    "title": "Penyediaan Bahan/Material",
+    "shortTitle": "Bahan/Material & BBM",
+    "icon": "fuel",
+    "questions": [
+      {
+        "id": "q6",
+        "num": 6,
+        "text": "Kecukupan dalam mendapatkan Bahan bakar minyak disetiap unit kendaraan yang ada di TMR"
+      },
+      {
+        "id": "q7",
+        "num": 7,
+        "text": "Kecepatan dan ketepatan dalam proses pembayaran tagihan Bahan bakar minyak setiap bulan"
+      },
+      {
+        "id": "q8",
+        "num": 8,
+        "text": "Kemudahan dalam mendapatkan Akses Pengisian Bahan bakar minyak Kendaraan atau peralatan"
+      },
+      {
+        "id": "q9",
+        "num": 9,
+        "text": "Kualitas Penyediaan Bahan bakar minyak sudah sesuai dengan yang di harapkan"
+      },
+      {
+        "id": "q10",
+        "num": 10,
+        "text": "Ketepatan waktu pengadaan Bahan bakar minyak"
+      }
+    ]
+  },
+  {
+    "id": "sec_3",
+    "code": "3.28.01.1.09.0002",
+    "title": "Penyediaan Jasa Pemeliharaan Biaya Pemeliharaan, Pajak dan Perizinan Kendaraan Dinas Operasional atau Lapangan",
+    "shortTitle": "Pemeliharaan & Pajak Kendaraan",
+    "icon": "truck",
+    "questions": [
+      {
+        "id": "q11",
+        "num": 11,
+        "text": "Kecukupan atau pemanfaatan setiap Unit Kendaraan Operasional yang dimiliki UP Taman Margasatwa Ragunan"
+      },
+      {
+        "id": "q12",
+        "num": 12,
+        "text": "Ketepatan proses pembayaran tagihan pajak kendaraan dinas operasional di Taman Margasatwa Ragunan"
+      },
+      {
+        "id": "q13",
+        "num": 13,
+        "text": "Kemudahan dalam melakukan aktivitas dengan menggunakan kendaraan dinas roda dua maupun roda empat"
+      },
+      {
+        "id": "q14",
+        "num": 14,
+        "text": "Kesesuaian pemanfaatan aset khususnya kendaraan dinas yang dimiliki Taman Margasatwa Ragunan"
+      },
+      {
+        "id": "q15",
+        "num": 15,
+        "text": "Peningkatan efektivitas dan efisiensi biaya operasional kendaraan dalam pelaksanaan pemeliharaan berkala"
+      }
+    ]
+  },
+  {
+    "id": "sec_4",
+    "code": "3.28.01.1.10.0001",
+    "title": "Pelayanan dan Penunjang Pelayanan BLUD",
+    "shortTitle": "Pelayanan & Penunjang BLUD",
+    "icon": "building-2",
+    "questions": [
+      {
+        "id": "q16",
+        "num": 16,
+        "text": "Kemampuan petugas dalam melaksanakan atau memberikan pelayanan kedinasan"
+      },
+      {
+        "id": "q17",
+        "num": 17,
+        "text": "Kemudahan prosedur dalam perencanaan anggaran BLUD"
+      },
+      {
+        "id": "q18",
+        "num": 18,
+        "text": "Fleksibilitas dalam pola pengelolaan keuangan BLUD"
+      },
+      {
+        "id": "q19",
+        "num": 19,
+        "text": "Kualitas sarana dan prasarana dalam penunjang pelayanan"
+      },
+      {
+        "id": "q20",
+        "num": 20,
+        "text": "Penyelenggaraan fungsi organisasi dalam rangka pemberian layanan yang bermutu, berkesinambungan dan berdaya saing"
+      }
+    ]
+  }
+]
